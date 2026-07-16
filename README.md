@@ -118,5 +118,3 @@
 | SAM 3D: 3Dfy Anything in Images | 单图三维重建与分割 | [PDF](SAM3D/2511.16624v2.pdf) · [arXiv](https://arxiv.org/abs/2511.16624) |
 
 ---
-
-> 维护建议：新增论文时，将 PDF 放入独立目录，并在对应领域表格中补充正式标题、仓库内相对链接及 arXiv 链接；不添加其他站外链接。
